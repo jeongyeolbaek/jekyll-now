@@ -9,23 +9,25 @@ PROFILE
 
 EXPERIENCE
 ---------
+2015 - current
+: **AI Research engineer, LGE CTO division**
 
 SKILLS
 ---------
-#### Basic : Python, C, Matlab
-#### Framework : Caffe, Tensorflow
+: Basic : Python, C, Matlab
+: Framework : Caffe, Tensorflow
 
 
 Education
 ---------
 
 2014-2015 
-:   **M.S., Electrical and Electronics Engineering; Yonsei University **
+:   **M.S., Electrical and Electronics Engineering; Yonsei University(Seoul)**
 
     *Thesis title: Detection and recognition of traffic lights utilizing color and position information*
 
 2008-2013
-:   **B.S., Electrical and Electronics Engineering; Yonsei University **
+:   **B.S., Electrical and Electronics Engineering; Yonsei University(Seoul)**
 
 
 Contact me

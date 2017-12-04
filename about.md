@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### PROFILE
 
-### More Information
+### EXPERIENCE
 
-A place to include any other types of information that you'd like to include about yourself.
+### SKILLS
+#### Basic : Python, C, Matlab
+#### Framework : Caffe, Tensorflow
+
+### Education
+#### M.S. in Electrical and Electronics Engineering, Yonsei University, Seoul, Korea (Mar 2014 ~ Feb 2016)
+##### Graduation thesis : 
+#### B.S. in Electrical and Electronics Engineering, Yonsei University, Seoul, Korea (Mar 2008 ~ Feb 2014)
+##### Graduation thesis : 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[qorwjdfuf89@naver.com](mailto:qorwjdfuf89@naver.com)

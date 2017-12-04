@@ -12,11 +12,19 @@ permalink: /about/
 #### Basic : Python, C, Matlab
 #### Framework : Caffe, Tensorflow
 
-### Education
-#### M.S. in Electrical and Electronics Engineering, Yonsei University, Seoul, Korea (Mar 2014 ~ Feb 2016)
-##### Graduation thesis : 
-#### B.S. in Electrical and Electronics Engineering, Yonsei University, Seoul, Korea (Mar 2008 ~ Feb 2014)
-##### Graduation thesis : 
+
+Education
+---------
+
+2014-2015 
+:   **M.S., Electrical and Electronics Engineering**; Yonsei University
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2008-2013
+:   **B.S., Electrical and Electronics Engineering**; Yonsei University
+
 
 ### Contact me
 

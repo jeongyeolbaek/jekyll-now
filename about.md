@@ -16,13 +16,16 @@ SKILLS
 ---------
 
 Programming Languages
+
 :   **first-lang:** Python, 
 
 :   **second-lang:** C, 
 
 Deep Learning Framework
 :    **Caffe, Tensorflow**
-: Basic knowledge of **Linux**,**Git**,**Matlab**,**java**
+
+
+Basic knowledge of **Linux**,  **Git**,  **Matlab**
 
 
 

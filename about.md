@@ -4,13 +4,23 @@ title: About
 permalink: /about/
 ---
 
+
+
+
+
 PROFILE
 ---------
 
+
+
+
+
 EXPERIENCE
 ---------
-2015 - current
-: **AI Research engineer, LGE CTO division**
+2015 - **Current** AI Research engineer, LGE CTO division
+
+
+
 
 SKILLS
 ---------

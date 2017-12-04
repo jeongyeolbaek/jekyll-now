@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-### PROFILE
+PROFILE
+---------
 
-### EXPERIENCE
+EXPERIENCE
+---------
 
-### SKILLS
+SKILLS
+---------
 #### Basic : Python, C, Matlab
 #### Framework : Caffe, Tensorflow
 
@@ -17,15 +20,15 @@ Education
 ---------
 
 2014-2015 
-:   **M.S., Electrical and Electronics Engineering**; Yonsei University
+:   **M.S., Electrical and Electronics Engineering; Yonsei University **
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Detection and recognition of traffic lights utilizing color and position information*
 
 2008-2013
-:   **B.S., Electrical and Electronics Engineering**; Yonsei University
+:   **B.S., Electrical and Electronics Engineering; Yonsei University **
 
 
-### Contact me
+Contact me
+---------
 
 [qorwjdfuf89@naver.com](mailto:qorwjdfuf89@naver.com)

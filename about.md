@@ -14,8 +14,18 @@ EXPERIENCE
 
 SKILLS
 ---------
-: Basic : Python, C, Matlab
-: Framework : Caffe, Tensorflow
+
+Programming Languages
+:   **first-lang:** Python, 
+
+:   **second-lang:** C, 
+
+Deep Learning Framework
+:    **Caffe, Tensorflow**
+: Basic knowledge of **Linux**,**Git**,**Matlab**,**java**
+
+
+
 
 
 Education
